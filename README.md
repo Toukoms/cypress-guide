@@ -25,4 +25,4 @@ Cypress est rapide, fiable et accessible. Il détecte les problèmes dans votre 
 
 > *Bien, maintenant vous devrez connaître c'est quoi Cypress et quel est son utilité et son importance dans le domaine d'assurance qualité. Sans plus tarder, nous allons commencer à détailler d'abord les connaissances requis et les outils nécessaires pour pouvoir faire de test avec Cypress en toute fluidité.*
 
-**Prochaine étape:** [[Get Started with Cypress 🚀]]
+**Prochaine étape:** [Get Started with Cypress 🚀](Get Started with Cypress 🚀.md)
