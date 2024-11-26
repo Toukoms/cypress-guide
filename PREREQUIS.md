@@ -1,3 +1,5 @@
+# Get Started with Cypress 🚀
+
 Bienvenue dans cette étape de préparation pour utiliser Cypress ! Avant de plonger dans l’écriture de vos premiers tests, nous allons passer en revue les outils et les compétences de base dont vous aurez besoin pour démarrer. Suivre ces étapes facilitera votre expérience et vous permettra de tirer le meilleur parti de Cypress.
 
 ---
