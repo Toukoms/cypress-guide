@@ -1,3 +1,5 @@
+# Configuration de Cypress ⚙️
+
 Maintenant que Cypress est installé, configurons-le pour qu'il fonctionne de manière optimale avec votre projet. Suivez ces étapes pour initialiser la configuration de Cypress et explorer les paramètres de base qui vous permettront de personnaliser votre environnement de test.
 
 ---
