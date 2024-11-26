@@ -41,4 +41,4 @@ Pour les débutants, voici quelques ressources pour vous aider à vous familiari
 - **JavaScript** : Un cours de base comme [JavaScript pour les débutants sur freeCodeCamp](https://www.freecodecamp.org/) peut vous fournir des bases solides.
 - **Node.js et npm** : Node.js Documentation pour des informations d’installation et des guides pour npm.
 
-**Prochaine étape :** [[Installation de Cypress 💻]]
+**Prochaine étape :** [Installation de Cypress]('Installation de Cypress.md')
