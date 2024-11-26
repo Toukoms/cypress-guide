@@ -27,4 +27,4 @@ Cypress est rapide, fiable et accessible. Il détecte les problèmes dans votre 
 
 [Cypress Repository](https://github.com/cypress-io/cypress)
 
-**Prochaine étape:** ["Get Started with Cypress"]("Get Started with Cypress.md")
+**Prochaine étape:** [Get Started with Cypress 🚀](/PREREQUIS.md)
