@@ -1,3 +1,5 @@
+# Bienvenue 🎉
+
 Bienvenue dans ce guide d'introduction à **Cypress** ! Que vous soyez totalement débutant en automatisation de tests ou que vous cherchiez simplement un moyen rapide et efficace de tester votre site web, vous êtes au bon endroit. Ce fichier d’aide vous guidera à travers l’essentiel de Cypress, avec des exemples, des astuces pour vous lancer rapidement.
 
 ---
