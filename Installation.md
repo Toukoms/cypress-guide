@@ -1,3 +1,5 @@
+# Installation Cypress 💻
+
 Bienvenue dans cette section d'installation de **Cypress** ! Nous allons détailler les étapes pour installer Cypress, adaptées à votre système d'exploitation, que vous soyez sur Windows, macOS, ou Linux. Suivez les instructions pour préparer votre environnement de développement, et vous serez prêt à écrire vos premiers tests en un rien de temps.
 
 ---
