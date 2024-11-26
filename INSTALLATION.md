@@ -90,4 +90,4 @@ Cette commande ouvre l’interface graphique de Cypress, vous permettant de conf
 
 Une fois Cypress ouvert, vous êtes prêt pour la suite ! Dans la prochaine section, nous allons voir comment configurer votre premier test Cypress et parcourir l'interface.
 
-__Prochaine étape :__ [[Configuration de Cypress ⚙️]]
+__Prochaine étape :__ [Configuration de Cypress ⚙️](/CONFIGURATION.md)
