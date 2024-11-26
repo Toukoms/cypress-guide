@@ -50,4 +50,4 @@ Une fois votre choix effectué, cliquez sur **Start** pour démarrer le navigate
 
 Vous avez maintenant configuré Cypress et êtes prêt à démarrer votre aventure de test ! Grâce au Launchpad, toutes les étapes de configuration ont été guidées et automatisées pour que vous puissiez commencer vos premiers tests en quelques clics. Dans la prochaine section, nous aborderons comment écrire et structurer vos premiers tests avec Cypress.
 
-__Prochaine étape :__ [[Premier test en Cypress🚀]]
+__Prochaine étape :__ [Premier test en Cypress🚀](/EXEMPLE.md)
